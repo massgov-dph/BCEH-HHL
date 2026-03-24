@@ -1,0 +1,1 @@
+window.globalLoadJsAsset('story_content/67KPKZMKZb6_captions.js', {"captions":[{"langCode":"en-US","data":"WEBVTT%0D%0A%0D%0ANOTE%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.111.36326.0%0D%0A%0D%0A00:00:00.100%20--%3E%2000:00:00.971%0D%0A[smoke%20detector%20single%20chirp%20low%20battery]%0D%0A%0D%0A"}]})
